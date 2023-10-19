@@ -35,5 +35,7 @@ public class CalcularDNI {
             }
 
         }
+
+        t.close();
     }
 }
